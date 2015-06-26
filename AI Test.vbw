@@ -1,0 +1,6 @@
+Form1 = 22, 22, 1058, 656, , 44, 44, 1407, 678, C
+cMySQLConnection = 66, 66, 1102, 700, 
+clsIRC = 0, 0, 0, 0, C
+clsIRCBuffer = 0, 0, 0, 0, C
+clsIRCPacketAnalyzer = 0, 0, 0, 0, C
+clsBigramArray = 0, 0, 0, 0, C
